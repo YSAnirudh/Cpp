@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "ios": "cpp",
+        "utility": "cpp",
+        "map": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "set": "cpp"
+    }
+}
