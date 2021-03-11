@@ -106,11 +106,3 @@ public:
         return;
     }
 };
-
-int main() {
-    Huffmann huff;
-    huff.encode();
-    // for (auto i = a.begin(); i != a.end(); i++) {
-    //     cout << i->c << i->freq << endl;
-    // }
-}
